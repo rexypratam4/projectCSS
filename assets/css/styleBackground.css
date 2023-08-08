@@ -1,0 +1,15 @@
+body {
+    margin: 100;
+}
+header{
+    margin-top: -20px;
+    background-image: url('../img/city.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+
+}
+
+h1{
+    color: aqua;
+}
