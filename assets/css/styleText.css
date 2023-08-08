@@ -9,6 +9,7 @@ h1{
     text-transform: uppercase;
     letter-spacing: 5px;
     word-spacing: 20px;
+    text-decoration: underline;
 }
 a{
     text-decoration: none;
