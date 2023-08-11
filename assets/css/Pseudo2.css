@@ -1,0 +1,19 @@
+.ul1>li:first-child{
+    color: blue;
+}
+
+.ul2>li:last-child{
+    color: brown;
+}
+
+.ul3>li:nth-child(3n+1){
+    color:darkgoldenrod;
+}
+
+p:last-of-type {
+    color: red;
+}
+ p:first-of-type{
+    color: blue;
+ }
+
